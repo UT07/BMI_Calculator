@@ -18,6 +18,10 @@ class BMICalculator extends StatelessWidget {
           bodyText2: TextStyle(
             color: Colors.white,
           ),
+          headline6: TextStyle(
+            fontSize: 18,
+            color: Color(0xFF8D8E98),
+          ),
         ),
       ),
       home: InputPage(),
